@@ -65,7 +65,9 @@ Category Sales: 80% of units sold are electronics
 ##Summary:-
 
 ➤ Analyzed an e-commerce database using SQL to extract 10+ business insights, including top customers, product sales trends, and revenue performance.
+
 ➤ Demonstrated expertise in JOIN, GROUP BY, HAVING, and RANK() functions.
+
 ➤ Delivered actionable recommendations on customer retention and product category performance.
 
 
